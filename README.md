@@ -58,7 +58,8 @@ The Random Forest model explains 82% of the variance in the dataset, indicating 
 While the current model provides promising results, further exploration with advanced techniques such as Structural Equation Modeling (SEM) is ongoing. Future work will aim to refine insights and enhance model robustness.
 
 # Acknowledgements
-This project was developed as part of a Research Assistant Project (Course Code: 6306) under the guidance of Dr. Jianling Li at the University of Texas at Arlington. Contributors:
+This project was developed as part of a Research Assistant Project (Course Code: 6306) under the guidance of Dr. Jianling Li at the University of Texas at Arlington.
+Contributors:
 
 Karan Yadav
 
