@@ -1,6 +1,4 @@
-# Impact of Marijuana Policy on Injury Crashes: A Comparative Analysis Across Three States
-# This project examines the impact of marijuana legislation on traffic injury crashes across Texas, Oklahoma, and Colorado. By analyzing crash data from these states, this study
-# seeks to provide insights into how marijuana policies influence road safety, using machine learning techniques to model injury outcomes.
+# Impact of Marijuana Policy on Injury Crashes: A Comparative Analysis Across Three States.This project examines the impact of marijuana legislation on traffic injury crashes across Texas, Oklahoma, and Colorado. By analyzing crash data from these states, this study seeks to provide insights into how marijuana policies influence road safety, using machine learning techniques to model injury outcomes.
 
 # Table of Contents
 
